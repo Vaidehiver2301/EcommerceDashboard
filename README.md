@@ -60,7 +60,6 @@ This repository contains the Power BI dashboard for an Ecommerce Store, designed
 - **Tables**: Detailed breakdowns of top customers and sub-category performance.
 
 ## Contributing
-We welcome contributions to improve this dashboard. Please follow these steps:
 1. Fork the repository.
 2. Create a new branch for your feature or bug fix.
 3. Commit your changes.
@@ -71,4 +70,4 @@ We welcome contributions to improve this dashboard. Please follow these steps:
 ![Screenshot 2025-03-11 104905](https://github.com/user-attachments/assets/95f8ca01-997a-4af7-89a1-5c8930ee365c)
 
 
-#PowerBI #DataAnalytics #Ecommerce #BusinessIntelligence #DataDriven #Dashboard #RetailInsights
+#PowerBI #DataAnalytics #Ecommerce #BusinessIntelligence #DataDriven #Dashboard #RetailInsights 
